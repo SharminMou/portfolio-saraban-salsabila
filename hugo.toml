@@ -1,21 +1,21 @@
-baseURL = "https://example.com/"
+baseURL = "https://saraban.com/"
 languageCode = "en"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Saraban Salsabila"
 theme = "hugo-initio"
 
 [params]
-name = "Anthony Russel"
-description = "A mystery person"
-email = "anthony.russel42@example.com"
+name = "Saraban Salsabila"
+description = "Research Enthusiast"
+email = "sarabansalsabila@iut-dhaka.edu"
 phone = "+234 23 9873237"
-address = "234 Hidden Pond Road, Ashland City, TN 37015"
-year = 2017
-avatar = "images/guy.jpg"
+address = "niukunja-2, Khilkhet-1229, Dhaka"
+year = 2024
+avatar = "images/sara.jpeg"
 avatarclass = "circle"
 background = ""
 banner = "images/bg_head.jpg"
 favicon = "images/gt_favicon.png"
-DateForm = "January 2, 2006"
+DateForm = ""
 author = "Sergey Pozhilov (GetTemplate.com)"
 
 showSubheader = true
@@ -37,6 +37,14 @@ weight = 1
 name = "blog"
 url = "/post/"
 weight = 5
+[[menu.main]]
+name = "research"
+url = "/research/"
+weight = 2
+[[menu.main]]
+name = "achievement"
+url = "/achievement/"
+weight = 3
 
 [params.disqus]
 site = "hugo-initio-site.disqus.com"
