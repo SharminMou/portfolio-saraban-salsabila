@@ -37,9 +37,9 @@
     },
     {
         "id": 2,
-        "name": "Lorem studios - interior and patio design",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Techno Venture Visit",
+        "image": "images/techno_2.jpg",
+        "url": "home/recentworks/internship3",
         "items": [
             {
                 "name": "Web design",
