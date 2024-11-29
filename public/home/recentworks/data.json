@@ -21,9 +21,9 @@
     },
     {
         "id": 1,
-        "name": "Pure ipsum - development services for people",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Kazi Farms",
+        "image": "images/kazi_farms_1.jpg",
+        "url": "home/recentworks/internship2",
         "items": [
             {
                 "name": "Web design",

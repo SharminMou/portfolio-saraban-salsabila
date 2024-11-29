@@ -10,13 +10,13 @@ I had the opportunity to visit **Ananda Shipyard**, one of the leading shipbuild
 
 ![Ananda Shipyard Visit](/images/ananda_shipyard_2.jpeg)
 
-*Caption: ship yard 1.*
+*Caption: shipyard 1.*
 
 The company is a pioneer in the shipbuilding industry in Bangladesh and is recognized for delivering high-quality ships to international markets. During my visit, I toured the facility and observed the ship construction process, from **steel cutting** to **assembly and welding**. I also learned about the various stages of building large-scale maritime vessels, including the techniques used in constructing **commercial and naval ships**.
 
 ![Ananda Shipyard Visit](/images/ananda_shipyard_3.jpeg)
 
-*Caption: ship yard 3.*
+*Caption: shipyard 3.*
 
 Additionally, I gained insights into the special ship paints used in the construction process, which are:
 - **Corrosion-resistant**
@@ -25,6 +25,6 @@ Additionally, I gained insights into the special ship paints used in the constru
 
 ![Ananda Shipyard Visit](/images/ananda_shipyard_4.jpeg)
 
-*Caption: ship yard 2.*
+*Caption: shipyard 2.*
 
 The visit deepened my understanding of the **mechanical systems** and **engineering principles** applied in shipbuilding and marine engineering. It was an invaluable experience that connected my **mechanical engineering background** with real-world applications in the **maritime industry**.
