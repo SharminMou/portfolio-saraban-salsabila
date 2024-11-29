@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download original template</title>
+      <title>Download BPDB Certificate</title>
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;industrial-training-at-bangladesh-power-development-board-bpdb&#34;&gt;Industrial Training at Bangladesh Power Development Board (BPDB)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed the &lt;strong&gt;Industrial Training Course&lt;/strong&gt; organized by the &lt;strong&gt;Bangladesh Power Development Board (BPDB)&lt;/strong&gt; at their &lt;strong&gt;Rajshahi Training Center&lt;/strong&gt; from &lt;strong&gt;21st May 2023 to 29th May 2023&lt;/strong&gt;. During this training, I gained practical insights into various aspects of &lt;strong&gt;power generation&lt;/strong&gt; and &lt;strong&gt;distribution&lt;/strong&gt;, which are crucial to understanding the &lt;strong&gt;energy sector&lt;/strong&gt; in Bangladesh.&lt;/p&gt;&#xA;&lt;p&gt;Throughout the course, I was exposed to the operational processes involved in the &lt;strong&gt;production&lt;/strong&gt; and &lt;strong&gt;distribution&lt;/strong&gt; of electrical power. I learned about different power generation techniques, including:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ananda Shipyard Visit</title>
@@ -37,11 +37,18 @@
       <description>&lt;p&gt;I completed a &lt;strong&gt;4-day training program&lt;/strong&gt; in &lt;strong&gt;January 2023&lt;/strong&gt; at &lt;strong&gt;Techno Venture Ltd., Bangladesh&lt;/strong&gt;, where I gained comprehensive knowledge of various processes involved in &lt;strong&gt;transformer manufacturing&lt;/strong&gt; and &lt;strong&gt;electrical systems&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/techno_3.jpg&#34; alt=&#34;Techno Venture Visit&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Caption: Techno 1.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The training provided hands-on experience in:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Copper wire drawing&lt;/strong&gt; and &lt;strong&gt;copper wire enameling&lt;/strong&gt;, crucial for producing high-quality conductors for transformers.&lt;/li&gt;&#xA;&lt;li&gt;The &lt;strong&gt;powder coating process&lt;/strong&gt;, which enhances the durability of transformer components.&lt;/li&gt;&#xA;&lt;li&gt;The operation of the &lt;strong&gt;transformer oil purification plant&lt;/strong&gt;, essential for maintaining the insulating properties of transformer oil.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/techno_2.jpg&#34; alt=&#34;Techno Venture Visit&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Walton Hi-Tech Industries PLC Visit</title>
+      <link>http://localhost:1313/home/recentworks/internship4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/internship4/</guid>
+      <description>&lt;p&gt;In &lt;strong&gt;June 2023&lt;/strong&gt;, I had the opportunity to visit &lt;strong&gt;Walton Hi-Tech Industries Ltd.&lt;/strong&gt;, one of the leading electronics and home appliance manufacturers in Bangladesh. This visit provided valuable insights into the company’s &lt;strong&gt;manufacturing processes&lt;/strong&gt;, &lt;strong&gt;cutting-edge technology&lt;/strong&gt;, and the &lt;strong&gt;scale&lt;/strong&gt; at which Walton operates.&lt;/p&gt;&#xA;&lt;p&gt;During the visit, I toured various production facilities and observed the assembly lines for a wide range of products, including:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Refrigerators&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Air conditioners&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Televisions&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mobile phones&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I learned about the advanced &lt;strong&gt;automation&lt;/strong&gt; and &lt;strong&gt;quality control measures&lt;/strong&gt; employed to ensure the production of high-quality consumer electronics. Walton’s commitment to &lt;strong&gt;research and development&lt;/strong&gt; was evident in their focus on &lt;strong&gt;in-house manufacturing&lt;/strong&gt; of key components like compressors and motors, which allows the company to maintain a competitive edge in the market.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/mac.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;necessitatibus&#34;&gt;Necessitatibus&lt;/h3&gt;&#xA;&lt;p&gt;Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!&lt;/p&gt;</description>
+      <description>&lt;p&gt;I’m Saraban Salsabila, a Mechanical Engineer with a passion for innovation, research, and solving real-world challenges. I completed my B.Sc. in Mechanical Engineering from the Islamic University of Technology (IUT), Bangladesh, where I developed a keen interest in thermal systems, energy optimization, and aerospace applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/about.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the past several years, I’ve been deeply involved in research, specializing in Computational Fluid Dynamics (CFD), heat transfer analysis, and modeling and simulation. My work is driven by a commitment to advancing engineering knowledge and finding practical solutions to real-world problems.&#xA;Outside of research, I value continuous learning and strive to combine my technical skills with creative problem-solving approaches to make meaningful contributions to the field.&#xA;Feel free to explore my webpage to learn more about my work, research, and experiences. Let’s connect—I’d love to collaborate!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vivamus Lacus Mauris</title>
@@ -65,11 +72,11 @@
       <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Download HUGO template</title>
+      <title>Download Multibrand Certificate</title>
       <link>http://localhost:1313/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;industrial-training-at-multibrand-bangladesh&#34;&gt;Industrial Training at Multibrand Bangladesh&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
       <title>SEO &amp; SEM services</title>
