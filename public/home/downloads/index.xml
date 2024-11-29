@@ -8,18 +8,25 @@
     <language>en</language>
     <atom:link href="http://localhost:1313/home/downloads/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Download BPDB Certificate</title>
+      <title>Download CSWA Certificate</title>
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;h5 id=&#34;industrial-training-at-bangladesh-power-development-board-bpdb&#34;&gt;Industrial Training at Bangladesh Power Development Board (BPDB)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed the &lt;strong&gt;Industrial Training Course&lt;/strong&gt; organized by the &lt;strong&gt;Bangladesh Power Development Board (BPDB)&lt;/strong&gt; at their &lt;strong&gt;Rajshahi Training Center&lt;/strong&gt; from &lt;strong&gt;21st May 2023 to 29th May 2023&lt;/strong&gt;. During this training, I gained practical insights into various aspects of &lt;strong&gt;power generation&lt;/strong&gt; and &lt;strong&gt;distribution&lt;/strong&gt;, which are crucial to understanding the &lt;strong&gt;energy sector&lt;/strong&gt; in Bangladesh.&lt;/p&gt;&#xA;&lt;p&gt;Throughout the course, I was exposed to the operational processes involved in the &lt;strong&gt;production&lt;/strong&gt; and &lt;strong&gt;distribution&lt;/strong&gt; of electrical power. I learned about different power generation techniques, including:&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/strong&gt; certication course.&lt;/p&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Download CSWA Certificate</title>
+      <link>http://localhost:1313/home/downloads/download3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/downloads/download3/</guid>
+      <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/strong&gt; certication course.&lt;/p&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Download Multibrand Certificate</title>
       <link>http://localhost:1313/home/downloads/download2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>&lt;h5 id=&#34;industrial-training-at-multibrand-bangladesh&#34;&gt;Industrial Training at Multibrand Bangladesh&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Another simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;industrial-training-at-multibrand-bangladesh&#34;&gt;Industrial Training at Multibrand Bangladesh&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;3-month internship&lt;/strong&gt; at &lt;strong&gt;Multibrand Workshop Ltd.&lt;/strong&gt;, Bangladesh&amp;rsquo;s leading automobile workshop, from &lt;strong&gt;June 10, 2023, to September 24, 2023&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

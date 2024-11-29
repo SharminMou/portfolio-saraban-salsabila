@@ -22,7 +22,7 @@ showSubheader = true
 showServices = true
 showRecentWorks = true
 showDownloads = true
-showClients = true
+showClients = false
 
 showFooterContact = true
 showFooterFollowMe = true

@@ -1,8 +1,8 @@
 +++
 title = "Download Multibrand Certificate"
-file = "https://github.com/miguelsimoni/hugo-initio/archive/main.zip"
+file = "/multibrand_certificate.pdf"
 weigth = 2
 +++
 ##### Industrial Training at Multibrand Bangladesh
 ---
-Another simple, nice-looking **call to action box**. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.
+I completed a **3-month internship** at **Multibrand Workshop Ltd.**, Bangladesh's leading automobile workshop, from **June 10, 2023, to September 24, 2023**.
