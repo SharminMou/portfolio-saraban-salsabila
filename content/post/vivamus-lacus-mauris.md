@@ -28,7 +28,6 @@ These achievements reflect my commitment to **physical fitness** and **competiti
 
 ### Article Writing Competition
 I was awarded **Third Prize** in the article writing competition on **"Importance of Arabic Language: The Global Economic Perspective"** on **25th September 2023**, in celebration of **International Arabic Language Day** and coinciding with **OIC Day**.
-
 ![extra curricular](/images/ec_4.jpg)
 
 *Caption: OIC Day at IUT.*
