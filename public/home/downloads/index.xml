@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Training &amp; Certifications on Saraban Salsabila</title>
+    <title>Certifications on Saraban Salsabila</title>
     <link>http://localhost:1313/home/downloads/</link>
-    <description>Recent content in Training &amp; Certifications on Saraban Salsabila</description>
+    <description>Recent content in Certifications on Saraban Salsabila</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="http://localhost:1313/home/downloads/index.xml" rel="self" type="application/rss+xml" />
@@ -12,21 +12,7 @@
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/downloads/download1/</guid>
-      <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/strong&gt; certication course.&lt;/p&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Download CSWA Certificate</title>
-      <link>http://localhost:1313/home/downloads/download3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download3/</guid>
-      <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/strong&gt; certication course.&lt;/p&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Download Multibrand Certificate</title>
-      <link>http://localhost:1313/home/downloads/download2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/downloads/download2/</guid>
-      <description>&lt;h5 id=&#34;industrial-training-at-multibrand-bangladesh&#34;&gt;Industrial Training at Multibrand Bangladesh&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I completed a &lt;strong&gt;3-month internship&lt;/strong&gt; at &lt;strong&gt;Multibrand Workshop Ltd.&lt;/strong&gt;, Bangladesh&amp;rsquo;s leading automobile workshop, from &lt;strong&gt;June 10, 2023, to September 24, 2023&lt;/strong&gt;.&lt;/p&gt;</description>
+      <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
