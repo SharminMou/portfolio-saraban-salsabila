@@ -16,6 +16,13 @@
       <description>&lt;p&gt;A simple, nice-looking &lt;strong&gt;call to action box&lt;/strong&gt;. Boxing is about respect. getting it for yourself, and taking it away from the other guy. no, this is mount everest.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ananda Shipyard Visit</title>
+      <link>http://localhost:1313/home/recentworks/internship1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/recentworks/internship1/</guid>
+      <description>&lt;p&gt;I had the opportunity to visit &lt;strong&gt;Ananda Shipyard&lt;/strong&gt;, one of the leading shipbuilding companies in Bangladesh, on &lt;strong&gt;6th June 2023&lt;/strong&gt;. Founded in &lt;strong&gt;1999&lt;/strong&gt;, Ananda Shipyard &amp;amp; Slipways Limited is renowned for its advanced technology and expertise in constructing both commercial and military vessels.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/ananda_shipyard_2.jpeg&#34; alt=&#34;Ananda Shipyard Visit&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Caption: ship yard 1.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The company is a pioneer in the shipbuilding industry in Bangladesh and is recognized for delivering high-quality ships to international markets. During my visit, I toured the facility and observed the ship construction process, from &lt;strong&gt;steel cutting&lt;/strong&gt; to &lt;strong&gt;assembly and welding&lt;/strong&gt;. I also learned about the various stages of building large-scale maritime vessels, including the techniques used in constructing &lt;strong&gt;commercial and naval ships&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,11 +72,11 @@
       <description>&lt;p&gt;The Smoke and Fire Detection System with Automated Ventilation is an innovative safety solution designed to detect hazardous conditions in enclosed spaces and respond effectively by improving ventilation. This project highlights the integration of sensors, actuators, and software for real-time monitoring and automated response to mitigate fire-related risk effectively.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Wordpress integration</title>
+      <title>Sugar Rocket</title>
       <link>http://localhost:1313/home/services/service2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service2/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This project involved designing, fabricating, and testing a sugar rocket using solid rocket propellant. The primary objectives included propellant formulation, nozzle design, and trajectory modeling, culminating in a static test demonstration. The project aimed to develop practical engineering solutions for small-scale rocket propulsion systems, emphasizing efficiency, safety, and cost-effectiveness.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

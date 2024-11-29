@@ -1,9 +1,9 @@
 [
     {
         "id": 0,
-        "name": "Sample title - big data solutions",
-        "image": "images/s1.jpg",
-        "url": "#",
+        "name": "Ananda Shipyard",
+        "image": "images/ananda_shipyard_1.jpeg",
+        "url": "home/recentworks/internship1",
         "items": [
             {
                 "name": "Web design",

@@ -1,12 +1,15 @@
 +++
 title = "Smoke and Fire Detection"
+image_style = "display: block; margin: 0 auto; width: 50%;"
 +++
 
 The Smoke and Fire Detection System with Automated Ventilation is an innovative safety solution designed to detect hazardous conditions in enclosed spaces and respond effectively by improving ventilation. This project highlights the integration of sensors, actuators, and software for real-time monitoring and automated response to mitigate fire-related risk effectively.
 
 <!--more-->
-![Smoke Detection System](/images/smoke_detection_1.jpg){.project-image}
-*Caption: Real-time monitoring interface.*
+![Smoke Detection System](/images/smoke_detection_3.jpg)
+
+*Caption: Detailed view of the smoke detection system setup.*
+
 ### Project Details
 - **Project Type**: Academic Project (Solo)
 - **Course Name**: Measurement, Instrumentation and Control (MIC) Lab
@@ -16,6 +19,9 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 - **Grade Achieved**: A+
 
 ---
+![Smoke Detection System](/images/smoke_detection_2.jpg)
+
+*Caption: Detailed view of the smoke detection system setup.*
 
 ### Key Features
 - **Integrated Automation**:
@@ -50,6 +56,10 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 #### Dynamic Bulb and Fan Control
 - The bulb simulates heat, turning off when the temperature exceeds a set threshold.
 - The fan activates to reduce room temperature and switches off when the room cools.
+
+![Smoke Detection System](/images/smoke_detection_4.jpg)
+
+*Caption: Detailed view of the smoke detection system setup.*
 
 #### Ventilation Activation
 - If temperature or smoke exceeds thresholds, the Arduino triggers the stepper motor to open the ventilation window.

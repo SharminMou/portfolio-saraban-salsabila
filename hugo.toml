@@ -8,7 +8,7 @@ name = "Saraban Salsabila"
 description = "Research Enthusiast"
 email = "sarabansalsabila@iut-dhaka.edu"
 phone = "+8801763711909"
-address = "niukunja-2, Khilkhet-1229, Dhaka"
+address = "Nikunja-2, Khilkhet-1229, Dhaka"
 year = 2024
 avatar = "images/sara.jpeg"
 avatarclass = "circle"
@@ -112,3 +112,8 @@ icon = "fas fa-envelope-square"
 footer = false
 sharethis = true
 network = "email"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
