@@ -34,7 +34,7 @@ name = "home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "blog"
+name = "extra curricular"
 url = "/post/"
 weight = 5
 #[[menu.main]]
