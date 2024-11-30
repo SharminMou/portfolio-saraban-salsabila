@@ -28,18 +28,6 @@
         "items": []
     },
     {
-        "id": 4,
-        "name": "Multibrand",
-        "image": "images/multibrand_1.jpeg",
-        "url": "home/recentworks/internship5",
-        "items": [
-            {
-                "name": "Certificate",
-                "url": "/certificates/multibrand_certificate.pdf"
-            }
-        ]
-    },
-    {
         "id": 5,
         "name": "Bangladesh Power Development Board (BPDB) ",
         "image": "images/bpdb.png",
