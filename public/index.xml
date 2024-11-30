@@ -107,13 +107,6 @@
       <description>&lt;p&gt;I’m Saraban Salsabila, a Mechanical Engineer with a passion for innovation, research, and solving real-world challenges. I completed my B.Sc. in Mechanical Engineering from the Islamic University of Technology (IUT), Bangladesh, where I developed a keen interest in thermal systems, energy optimization, and aerospace applications.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;../images/about.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For the past several years, I’ve been deeply involved in research, specializing in Computational Fluid Dynamics (CFD), heat transfer analysis, and modeling and simulation. My work is driven by a commitment to advancing engineering knowledge and finding practical solutions to real-world problems.&#xA;Outside of research, I value continuous learning and strive to combine my technical skills with creative problem-solving approaches to make meaningful contributions to the field.&#xA;Feel free to explore my webpage to learn more about my work, research, and experiences. Let’s connect—I’d love to collaborate!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Application development</title>
-      <link>http://localhost:1313/home/services/service3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/home/services/service3/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Download CSWA Certificate</title>
       <link>http://localhost:1313/home/downloads/download1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -121,11 +114,11 @@
       <description>&lt;h5 id=&#34;certified-solidworks-associate--mechanical-design-cswa&#34;&gt;Certified SolidWorks Associate – Mechanical Design (CSWA)&lt;/h5&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;The SOLIDWORKS CAD Design Associate Certificate, awarded by Dassault Systèmes, is a recognition of proficiency in using SOLIDWORKS for computer-aided design (CAD). This certification demonstrates the ability to create, analyze, and modify 3D models and assemblies effectively, showcasing a strong foundation in CAD tools essential for engineering and design applications.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>SEO &amp; SEM services</title>
+      <title>Drone Development Project</title>
       <link>http://localhost:1313/home/services/service4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service4/</guid>
-      <description>&lt;p&gt;I don&amp;rsquo;t think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn&amp;rsquo;t eat for three weeks. i once heard a wise man say there are no perfect men.&lt;/p&gt;</description>
+      <description>&lt;p&gt;The pandemic gave me the perfect opportunity to take on this project in my free time. It was a completely hands-on learning experience where I wasn’t applying any formal academic knowledge, but instead, I learned by trial and error, relying on online resources like Google and YouTube for guidance and troubleshooting.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Smoke and Fire Detection System</title>
@@ -133,6 +126,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/home/services/service1/</guid>
       <description>&lt;p&gt;The Smoke and Fire Detection System with Automated Ventilation is an innovative safety solution designed to detect hazardous conditions in enclosed spaces and respond effectively by improving ventilation. This project highlights the integration of sensors, actuators, and software for real-time monitoring and automated responses to mitigate fire-related risks efficiently.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Soccer Bot</title>
+      <link>http://localhost:1313/home/services/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/services/service3/</guid>
+      <description>&lt;p&gt;As part of an exciting academic competition, my team and I designed and built a Soccer Bot—a robot capable of playing soccer using a simple Bluetooth control system. The project was both a challenging and rewarding experience, blending creativity, engineering skills, and teamwork. The bot was designed to efficiently navigate the field, approach the ball, and guide it toward the goal without needing complex mechanisms.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Sugar Rocket</title>
