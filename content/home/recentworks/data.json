@@ -2,14 +2,14 @@
     {
         "id": 0,
         "name": "Ananda Shipyard",
-        "image": "images/ananda_shipyard_1.jpeg",
+        "image": "images/ananda_shipyard_logo.png",
         "url": "home/recentworks/internship1",
         "items": []
     },
     {
         "id": 1,
         "name": "Kazi Farms",
-        "image": "images/kazi_farms_1.jpg",
+        "image": "images/kazi_farms_logo.jpeg",
         "url": "home/recentworks/internship2",
         "items": []
     },
@@ -23,14 +23,14 @@
     {
         "id": 3,
         "name": "Walton Hi-Tech Industries PLC",
-        "image": "images/walton.png",
+        "image": "images/walton_logo.jpg",
         "url": "home/recentworks/internship4",
         "items": []
     },
     {
         "id": 5,
         "name": "Bangladesh Power Development Board (BPDB) ",
-        "image": "images/bpdb.png",
+        "image": "images/bpdb_logo.png",
         "url": "home/recentworks/internship6",
         "items": [
             {
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "SQ Factory",
-        "image": "images/sq_1.jpg",
+        "image": "images/sq_logo.jpeg",
         "url": "home/recentworks/internship7",
         "items": []
     }

@@ -8,7 +8,7 @@ image_style = "display: block; margin: 0 auto; width: 50%;"
 
 I had the opportunity to visit **Ananda Shipyard**, one of the leading shipbuilding companies in Bangladesh, on **6th June 2023**. Founded in **1999**, Ananda Shipyard & Slipways Limited is renowned for its advanced technology and expertise in constructing both commercial and military vessels.
 
-![Ananda Shipyard Visit](/images/ananda_shipyard_2.jpeg)
+![Ananda Shipyard Visit](/images/ananda_shipyard_1.jpeg)
 
 *Caption: shipyard 1.*
 
@@ -20,6 +20,11 @@ The company is a pioneer in the shipbuilding industry in Bangladesh and is recog
 
 Additionally, I gained insights into the special ship paints used in the construction process, which are:
 - **Corrosion-resistant**
+
+![Ananda Shipyard Visit](/images/ananda_shipyard_2.jpeg)
+
+*Caption: shipyard 1.*
+
 - **Algae-resistant**
 - **Non-dissolvable in water**
 
