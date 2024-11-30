@@ -4,6 +4,9 @@
 [home_recentworks]
     other = "Recent works"
 
+[home_extracurricular]
+other = "Extra Curricular"
+
 [home_clients]
     other = "Clients"
 

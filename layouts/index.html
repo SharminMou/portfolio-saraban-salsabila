@@ -12,6 +12,7 @@
                 {{ $stype := .Type}}
                 {{ if (or (and (eq $stype "service") (.Site.Params.showServices))
                           (and (eq $stype "recentwork") (.Site.Params.showRecentWorks))
+                          (and (eq $stype "extracurricular") (.Site.Params.showExtraCurricular))
                           (and (eq $stype "download") (.Site.Params.showDownloads))
                           (and (eq $stype "client") (.Site.Params.showClients))
                           (eq $stype "single")) }}
@@ -25,6 +26,9 @@
 
                      {{ else if eq $stype "recentwork" }}
                        {{ partial "home/recentworks.html" . }}
+
+                     {{ else if eq $stype "extracurricular" }}
+                       {{ partial "home/extracurricular.html" . }}
 
                      {{ else if eq $stype "download" }}
                        {{ partial "home/download.html" . }}
