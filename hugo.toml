@@ -39,13 +39,13 @@ name = "about"
 url = "/about/"
 weight = 2
 [[menu.main]]
-name = "research"
-url = "/research/"
+name = "experience"
+url = "/post/"
 weight = 3
 [[menu.main]]
-name = "extra curricular"
-url = "/post/"
-weight = 5
+name = "research"
+url = "/research/"
+weight = 4
 
 [params.disqus]
 site = "hugo-initio-site.disqus.com"
