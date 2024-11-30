@@ -34,17 +34,17 @@ name = "home"
 url = "/"
 weight = 1
 [[menu.main]]
+name = "about"
+url = "/about/"
+weight = 2
+[[menu.main]]
+name = "research"
+url = "/research/"
+weight = 3
+[[menu.main]]
 name = "extra curricular"
 url = "/post/"
 weight = 5
-#[[menu.main]]
-#name = "research"
-#url = "/research/"
-#weight = 2
-#[[menu.main]]
-#name = "achievement"
-#url = "/achievement/"
-#weight = 3
 
 [params.disqus]
 site = "hugo-initio-site.disqus.com"
@@ -102,14 +102,14 @@ network = "tumblr"
 title = "github"
 url = "https://github.com/nickname"
 icon = "fab fa-github"
-footer = true
+footer = false
 sharethis = false
 network = ""
 [[params.social]]
 title = "email"
 url = "mailto:sarabansalsabila@iut-dhaka.edu"
 icon = "fas fa-envelope-square"
-footer = false
+footer = true
 sharethis = true
 network = "email"
 
