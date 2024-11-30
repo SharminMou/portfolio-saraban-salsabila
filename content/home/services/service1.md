@@ -8,7 +8,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 
 ![Smoke Detection System](/images/smoke_detection_3.jpg)
 
-*Caption: Smoke and fire detection*
+*Caption: Smoke and Fire Detection System in an Enclosed Room*
 
 #### Project Details
 - **Project Type:** Academic Project (Solo)
@@ -21,7 +21,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 ---
 ![Smoke Detection System](/images/smoke_detection_2.jpg)
 
-*Caption: Smoke and fire detection*
+*Caption: Ventilation window*
 
 #### Key Features
 
@@ -35,7 +35,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 ---
 ![Smoke Detection System](/images/smoke_detection_1.jpg)
 
-*Caption: Smoke and fire detection*
+*Caption: Front view of the room*
 
 #### System Components
 
@@ -52,7 +52,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 
 ![Smoke Detection System](/images/smoke_detection_4.jpg)
 
-*Caption: Smoke and fire detection*
+*Caption: Side view of the room*
 
 #### Working Mechanism
 

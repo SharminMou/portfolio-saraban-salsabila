@@ -15,9 +15,9 @@ This project involved designing, fabricating, and testing a sugar rocket using s
 
 ---
 
-### Abstract
-This project involved designing, fabricating, and testing a sugar rocket using solid rocket propellant. The primary objectives included propellant formulation, nozzle design, and trajectory modeling, culminating in a static test demonstration. The project aimed to develop practical engineering solutions for small-scale rocket propulsion systems, emphasizing efficiency, safety, and cost-effectiveness.
+![Drawing of Sugar Rocket Assembly](/images/sugar_rocket.jpg)
 
+*Caption: Capstone Design Project Showcasing*
 ---
 
 ### Propellant Composition
@@ -50,6 +50,12 @@ The rocket's trajectory was modeled in MATLAB using classical mechanics equation
 The MATLAB code generated time-based graphs for altitude, velocity, and acceleration.
 
 ---
+### Drawing
+Below is the drawing of the final sugar rocket assembly:
+
+![Drawing of Sugar Rocket Assembly](/images/sugar_rocket_drawing.jpg)
+
+*Caption: Sugar Rocket Assembly (all dimensions in mm)*
 
 ### Static Test Results
 The static test, performed on **December 1, 2023**, yielded the following results:
@@ -68,15 +74,12 @@ The static test, performed on **December 1, 2023**, yielded the following result
 Static testing demonstrated cost-effective propulsion analysis without a full-scale launch. This was the fourth successful burn of the assembly, paving the way for further optimization and study.
 
 ---
+![Drawing of Sugar Rocket Assembly](/images/sugar_rocket_prize.jpg)
+
+*Caption: Capstone Design Project Showcasing 1st prize*
 
 ### Acknowledgment
 This project was conducted under the supervision of esteemed professors from the **Mechanical and Production Engineering Department** at the **Islamic University of Technology (IUT).**
 
 ---
 
-### Drawing
-Below is the drawing of the final sugar rocket assembly:
-
-![Drawing of Sugar Rocket Assembly](/images/sugar_rocket_drawing.jpg)
-
-*Caption: Sugar Rocket Assembly (all dimensions in mm)*
