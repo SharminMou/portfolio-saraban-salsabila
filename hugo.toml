@@ -1,4 +1,4 @@
-baseURL = "https://saraban.com/"
+baseURL = "https://saraban.github.io/portfolio"
 languageCode = "en"
 title = "Saraban Salsabila"
 theme = "hugo-initio"
