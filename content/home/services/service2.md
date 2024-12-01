@@ -5,6 +5,8 @@ title = "Sugar Rocket"
 This project involved designing, fabricating, and testing a sugar rocket using solid rocket propellant. The primary objectives included propellant formulation, nozzle design, and trajectory modeling, culminating in a static test demonstration. The project aimed to develop practical engineering solutions for small-scale rocket propulsion systems, emphasizing efficiency, safety, and cost-effectiveness.
 <!--more-->
 
+[Download Certificate](/certificates/sugar_rocket_certificate.pdf)
+
 ## Design and Fabrication of a Sugar Rocket & Its Static Performance Testing
 - **Course:** Capstone Design
 - **Project Type:** Group Project
