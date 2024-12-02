@@ -28,7 +28,9 @@ jobs:
           Remove-Item -Path hugo.zip
 
       - name: Build
-        run: ${RUNNER_TEMP}\hugo
+        run: |
+          & "${env:RUNNER_TEMP}/hugo.exe"
+          shell: pwsh
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
