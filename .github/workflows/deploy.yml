@@ -1,42 +1,28 @@
-name: Publish to GH Pages
+name: Deploy Hugo Site
+
 on:
   push:
     branches:
-      - main
-  pull_request:
+      - main  # Deploy when code is pushed to the 'main' branch. Change this if your branch is named differently.
 
 jobs:
   deploy:
     runs-on: windows-latest
-    steps:
-      - name: Checkout source
-        uses: actions/checkout@v3
-        with:
-          submodules: true
 
-      - name: Checkout destination
+    steps:
+      - name: Checkout code
         uses: actions/checkout@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          ref: gh-pages
-          path: built-site
 
       - name: Setup Hugo
-        run: |
-          Invoke-WebRequest -Uri 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_windows-amd64.zip' -OutFile hugo.zip
-          Expand-Archive -Path hugo.zip -DestinationPath $env:RUNNER_TEMP
-          Remove-Item -Path hugo.zip
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
 
-      - name: Build
-        run: $env:RUNNER_TEMP\hugo
+      - name: Build the site
+        run: hugo
 
-      - name: Deploy
-        if: github.ref == 'refs/heads/main'
-        run: |
-          xcopy /s /e /y public\* $env:GITHUB_WORKSPACE\built-site\
-          cd $env:GITHUB_WORKSPACE\built-site
-          git add .
-          git config user.name 'sharmin.mou'
-          git config user.email 'sharmin.mou@reddotdigitalit.com'
-          git commit -m 'Updated site'
-          git push
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
