@@ -29,8 +29,8 @@ jobs:
 
 #      - name: Debug Temp Directory
 #        run: dir "${env:RUNNER_TEMP}"
-      - name: Build
-        run: "${env:RUNNER_TEMP}"\hugo.exe
+#      - name: Build
+#        run: "${env:RUNNER_TEMP}"\hugo.exe
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
