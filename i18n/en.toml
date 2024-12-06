@@ -33,3 +33,6 @@ other = "Extra Curricular"
 
 [recent_works_click_text]
     other = "See details"
+
+[extracurricular_click_text]
+other = "See details"
