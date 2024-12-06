@@ -136,4 +136,4 @@ unsafe = true
 
 [module]
 [[module.imports]]
-path = "github.com/your-theme-repository/hugo-initio"
+path = "github.com/miguelsimoni/hugo-initio"
