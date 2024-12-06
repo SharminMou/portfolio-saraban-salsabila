@@ -30,13 +30,13 @@ jobs:
 
       - name: Build
         run: |
-          $env:RUNNER_TEMP\hugo\hugo.exe
+          $env:RUNNER_TEMP/hugo/hugo.exe
 
       - name: Deploy
         if: ${{ github.ref == 'refs/heads/main' }}
         run: |
-          xcopy /s /e /y public\* $env:GITHUB_WORKSPACE\built-site\
-          cd $env:GITHUB_WORKSPACE\built-site
+          xcopy /s /e /y public/* $env:GITHUB_WORKSPACE/built-site/
+          cd $env:GITHUB_WORKSPACE/built-site
           git config user.name "${{ github.actor }}"
           git config user.email "${{ secrets.GITHUB_EMAIL }}"
           git add .
