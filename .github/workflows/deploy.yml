@@ -1,4 +1,5 @@
 name: Publish to GH Pages
+
 on:
   push:
     branches:
@@ -16,29 +17,30 @@ jobs:
 
       - name: Checkout destination
         uses: actions/checkout@v3
-        if: github.ref == 'refs/heads/main'
         with:
           ref: gh-pages
           path: built-site
+          persist-credentials: false
 
       - name: Setup Hugo
         run: |
           Invoke-WebRequest -Uri 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_windows-amd64.zip' -OutFile hugo.zip
-          Expand-Archive -Path hugo.zip -DestinationPath $env:RUNNER_TEMP
+          Expand-Archive -Path hugo.zip -DestinationPath $env:RUNNER_TEMP\hugo
           Remove-Item -Path hugo.zip
 
-#      - name: Debug Temp Directory
-#        run: dir "${env:RUNNER_TEMP}"
       - name: Build
-        run: "${env:RUNNER_TEMP}"\hugo.exe
+        run: |
+          $env:RUNNER_TEMP\hugo\hugo.exe
 
       - name: Deploy
-        if: github.ref == 'refs/heads/main'
+        if: ${{ github.ref == 'refs/heads/main' }}
         run: |
           xcopy /s /e /y public\* $env:GITHUB_WORKSPACE\built-site\
           cd $env:GITHUB_WORKSPACE\built-site
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ secrets.GITHUB_EMAIL }}"
           git add .
-          git config user.name 'sharmin.mou'
-          git config user.email 'sharmin.mou@reddotdigitalit.com'
           git commit -m 'Updated site'
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
