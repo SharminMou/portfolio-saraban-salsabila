@@ -3,34 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/home/services/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/extracurricular/extracurricular3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/recentworks/internship1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/extracurricular/extracurricular1/</loc>
+    <lastmod>2024-11-25T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/recentworks/</loc>
+    <lastmod>2024-11-22T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/internship1/</loc>
+    <lastmod>2024-10-25T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/extracurricular/extracurricular3/</loc>
+    <lastmod>2024-10-15T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/extracurricular/extracurricular1/</loc>
+    <lastmod>2024-10-10T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/recentworks/internship2/</loc>
+    <lastmod>2024-11-20T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/extracurricular/extracurricular2/</loc>
+    <lastmod>2024-10-11T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/downloads/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/recentworks/internship2/</loc>
+    <loc>http://localhost:1313/home/recentworks/internship3/</loc>
+    <lastmod>2024-11-22T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/clients/</loc>
   </url><url>
-    <loc>http://localhost:1313/home/recentworks/internship3/</loc>
-  </url><url>
     <loc>http://localhost:1313/home/recentworks/internship4/</loc>
+    <lastmod>2024-10-22T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/recentworks/internship5/</loc>
+    <lastmod>2024-10-26T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/recentworks/internship6/</loc>
+    <lastmod>2024-10-26T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/recentworks/internship7/</loc>
+    <lastmod>2024-10-19T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/extracurricular/</loc>
+    <lastmod>2024-10-15T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/post/experience/</loc>
     <lastmod>2024-11-29T12:00:00+00:00</lastmod>
@@ -46,6 +59,21 @@
   </url><url>
     <loc>http://localhost:1313/research/</loc>
     <lastmod>2024-11-28T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/</loc>
+    <lastmod>2024-11-25T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service1/</loc>
+    <lastmod>2024-11-25T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service2/</loc>
+    <lastmod>2024-11-24T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service3/</loc>
+    <lastmod>2024-11-23T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/home/services/service4/</loc>
+    <lastmod>2024-11-21T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/home/subheader/</loc>
   </url><url>
@@ -66,16 +94,6 @@
     <loc>http://localhost:1313/home/downloads/download6/</loc>
   </url><url>
     <loc>http://localhost:1313/home/downloads/download7/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/services/service4/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/services/service1/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/services/service3/</loc>
-  </url><url>
-    <loc>http://localhost:1313/home/services/service2/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>
