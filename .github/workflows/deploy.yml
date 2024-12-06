@@ -1,80 +1,44 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages on Windows
-name: Deploy Hugo site to Pages
-
+name: Publish to GH Pages
 on:
-  # Runs on pushes targeting the default branch
   push:
     branches:
       - main
-
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
-permissions:
-  contents: read
-  pages: write
-  id-token: write
-
-# Allow one concurrent deployment
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-# Default to PowerShell for Windows
-defaults:
-  run:
-    shell: pwsh
+  pull_request:
 
 jobs:
-  # Build job
-  build:
+  deploy:
     runs-on: windows-latest
-    env:
-      HUGO_VERSION: 0.111.2
     steps:
-      - name: Install Hugo CLI
-        run: |
-          Invoke-WebRequest -Uri "https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_Windows-64bit.zip" -OutFile "$env:TEMP\hugo.zip"
-          Expand-Archive -Path "$env:TEMP\hugo.zip" -DestinationPath "$env:TEMP\hugo"
-          Copy-Item -Path "$env:TEMP\hugo\hugo.exe" -Destination "C:\hugo\"
-          $env:Path += ";C:\hugo"
-      - name: Checkout
+      - name: Checkout source
         uses: actions/checkout@v3
         with:
-          submodules: recursive
-          fetch-depth: 0
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
-      - name: Install Node.js dependencies
-        run: |
-          if (Test-Path "package-lock.json" -or Test-Path "npm-shrinkwrap.json") {
-            npm ci
-          }
-      - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo `
-            --gc `
-            --minify `
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: ./public
+          submodules: true
 
-  # Deployment job
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: windows-latest
-    needs: build
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v1
+      - name: Checkout destination
+        uses: actions/checkout@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          ref: gh-pages
+          path: built-site
+
+      - name: Setup Hugo
+        run: |
+          Invoke-WebRequest -Uri 'https://github.com/gohugoio/hugo/releases/download/v0.110.0/hugo_extended_0.110.0_windows-amd64.zip' -OutFile hugo.zip
+          Expand-Archive -Path hugo.zip -DestinationPath $env:RUNNER_TEMP
+          Remove-Item -Path hugo.zip
+
+#      - name: Debug Temp Directory
+#        run: dir "${env:RUNNER_TEMP}"
+      - name: Build
+        run: ${env:RUNNER_TEMP}/hugo.exe
+
+      - name: Deploy
+        if: github.ref == 'refs/heads/main'
+        run: |
+          xcopy /s /e /y public\* $env:GITHUB_WORKSPACE\built-site\
+          cd $env:GITHUB_WORKSPACE\built-site
+          git add .
+          git config user.name 'sharmin.mou'
+          git config user.email 'sharmin.mou@reddotdigitalit.com'
+          git commit -m 'Updated site'
+          git push
