@@ -27,10 +27,10 @@ jobs:
           Expand-Archive -Path hugo.zip -DestinationPath $env:RUNNER_TEMP
           Remove-Item -Path hugo.zip
 
-#      - name: Debug Temp Directory
-#        run: dir "${env:RUNNER_TEMP}"
-      - name: Build
-        run: %RUNNER_TEMP%\hugo.exe
+      - name: Debug Temp Directory
+        run: dir "${env:RUNNER_TEMP}"
+#      - name: Build
+#        run: ${env:RUNNER_TEMP}/hugo.exe
 
       - name: Deploy
         if: github.ref == 'refs/heads/main'
