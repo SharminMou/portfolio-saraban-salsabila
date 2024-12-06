@@ -1,4 +1,5 @@
 +++
+date = "2024-10-15T12:00:00-00:00"
 title = "Affiliation"
 type = "extracurricular"
 file = "data.json"

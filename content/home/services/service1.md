@@ -1,4 +1,5 @@
 +++
+date = "2024-11-25T12:00:00-00:00"
 title = "Smoke and Fire Detection System"
 +++
 

@@ -1,4 +1,5 @@
 +++
+date = "2024-11-22T12:00:00-00:00"
 title = "Techno Venture Visit"
 type = "recentwork"
 file = "data.json"
