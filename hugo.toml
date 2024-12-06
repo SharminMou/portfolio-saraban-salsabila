@@ -133,7 +133,3 @@ network = "telegram"
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
-
-[module]
-[[module.imports]]
-path = "github.com/miguelsimoni/hugo-initio"
