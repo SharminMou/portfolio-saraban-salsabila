@@ -7,7 +7,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 
 <!--more-->
 
-![Smoke Detection System](/images/smoke_detection_3.jpg)
+![Smoke Detection System](../../../images/smoke_detection_3.jpg)
 
 *Caption: Smoke and Fire Detection System in an Enclosed Room*
 
@@ -20,7 +20,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 - **Grade Achieved:** A+
 
 ---
-![Smoke Detection System](/images/smoke_detection_2.jpg)
+![Smoke Detection System](../../../images/smoke_detection_2.jpg)
 
 *Caption: Ventilation window*
 
@@ -34,7 +34,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 - **User-Friendly Monitoring:** Real-time data visualization through **LabVIEW 2021** ensures clear system feedback.
 
 ---
-![Smoke Detection System](/images/smoke_detection_1.jpg)
+![Smoke Detection System](../../../images/smoke_detection_1.jpg)
 
 *Caption: Front view of the room*
 
@@ -51,7 +51,7 @@ The Smoke and Fire Detection System with Automated Ventilation is an innovative 
 
 ---
 
-![Smoke Detection System](/images/smoke_detection_4.jpg)
+![Smoke Detection System](../../../images/smoke_detection_4.jpg)
 
 *Caption: Side view of the room*
 
