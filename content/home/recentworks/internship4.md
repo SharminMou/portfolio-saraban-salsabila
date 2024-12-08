@@ -21,7 +21,7 @@ I was also introduced to Walton’s emphasis on:
 - **Sustainability** and **energy-efficient solutions**, as the company works to meet the growing demand for eco-friendly products.
 - **Smart technology integration**, particularly in the context of home appliances and consumer electronics.
 
-![Kazi Farms Visit](/images/walton.png)
+![Kazi Farms Visit](../../../images/walton.png)
 
 *Caption: Walton Hi-Tech Industries PLC Visit with Team.*
 
