@@ -20,7 +20,7 @@ In the first year of my engineering program, I decided to explore my fascination
 The goal was straightforward: create a functional drone. What began as a curious experiment turned into a rewarding journey of discovery, teaching me about drone mechanics, electronics, and programming. This project was a perfect outlet for creativity and problem-solving.
 
 
-![Drawing of Sugar Rocket Assembly](/images/drone_1.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/drone_1.jpg)
 
 *Caption: Drone*
 
@@ -34,7 +34,7 @@ The goal was straightforward: create a functional drone. What began as a curious
 - **Brushless DC Motors:** Selected for their high efficiency and ability to maintain stability during flight.
 - **LiPo Battery:** Used for longer flight durations and consistent power output.
 
-![Drawing of Sugar Rocket Assembly](/images/drone_2.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/drone_2.jpg)
 
 *Caption: Drone*
 
@@ -47,7 +47,7 @@ The goal was straightforward: create a functional drone. What began as a curious
 - **Obstacle Detection Sensors:** Enabled the drone to autonomously avoid obstacles, ensuring safer flights.
 
 <video controls width="100%" style="display: block; margin: 0 auto; height: 90%;">
-    <source src="/videos/drone_3.mp4" type="video/mp4">
+    <source src="../../../videos/drone_3.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
