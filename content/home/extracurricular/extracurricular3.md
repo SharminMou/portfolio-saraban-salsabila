@@ -7,6 +7,23 @@ weight = 2
 image_style = "display: block; margin: 0 auto; width: 50%;"
 +++
 
+# Einstein Research Academy
+
+**Member, 2024 – Present**
+
+The Einstein Research Academy is a renowned organization dedicated to promoting scientific research and innovation. As a member, you join a community of like-minded individuals who are passionate about exploring new ideas, conducting research, and contributing to advancements in various scientific fields.
+
+The Academy provides a platform for members to:
+- Collaborate and share knowledge.
+- Engage in meaningful discussions.
+- Participate in a wide range of research activities, from theoretical studies to practical applications.
+
+It fosters a conducive environment for intellectual growth and scientific exploration. Being a member of the Einstein Research Academy offers opportunities for:
+- Personal development.
+- Networking.
+- Making a significant impact in the scientific community.
+
+
 ## IUT Al-Fazari Interstellar Society
 
 I served as the **Senior Secretary of Research** at the **IUT Al-Fazari Interstellar Society**, where I was responsible for leading and coordinating research activities related to **space science and technology**.
