@@ -11,7 +11,7 @@ image_style = "display: block; margin: 0 auto; width: 50%;"
 
 I served as the **Senior Secretary of Research** at the **IUT Al-Fazari Interstellar Society**, where I was responsible for leading and coordinating research activities related to **space science and technology**.
 
-![extra curricular](/images/affiliation_2.JPG)
+![extra curricular](../../../images/affiliation_2.JPG)
 
 *Caption: Senior Secretary of Research (IUT Al-Fazari Interstellar Society)*
 
@@ -38,7 +38,7 @@ I was a **junior member** of the **IUT Mars Rover Project**, **Team Avijatrik**,
 - Supported prototype building, component assembly, and ensuring all systems met competition requirements.
 - Worked collaboratively with a talented team to develop innovative engineering solutions.
 
-![extra curricular](/images/affiliation_1.JPG)
+![extra curricular](../../../images/affiliation_1.JPG)
 
 *Caption: IUT Avijatrik Base Rover 2021.*
 
