@@ -9,7 +9,7 @@ image_style = "display: block; margin: 0 auto; width: 50%;"
 
 I completed a **3-month internship** at **Multibrand Workshop Ltd.**, Bangladesh's leading automobile workshop, from **June 10, 2023, to September 24, 2023**.
 
-![Multibrand Workshop Visit](/images/multibrand_1.jpeg)
+![Multibrand Workshop Visit](../../../images/multibrand_1.jpeg)
 
 *Caption: Multibrand.*
 
@@ -20,7 +20,7 @@ During my internship in the **Mechanical Department**, I gained hands-on experie
 - **Suspension work**
 - **Timing belt replacement**
 
-![Multibrand Workshop Visit](/images/multibrand_2.jpeg)
+![Multibrand Workshop Visit](../../../images/multibrand_2.jpeg)
 
 *Caption: Multibrand.*
 
@@ -28,7 +28,7 @@ Additionally, I served as a **Service Advisor**, where I:
 - Listened to customer complaints and documented the issues.
 - Identified defective parts and provided customers with an estimated cost for repairs.
 
-![Multibrand Workshop Visit](/images/multibrand_3.jpeg)
+![Multibrand Workshop Visit](../../../images/multibrand_3.jpeg)
 
 *Caption: Multibrand.*
 
