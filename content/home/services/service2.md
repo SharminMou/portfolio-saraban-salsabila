@@ -18,7 +18,7 @@ This project involved designing, fabricating, and testing a sugar rocket using s
 
 ---
 
-![Drawing of Sugar Rocket Assembly](/images/sugar_rocket.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/sugar_rocket.jpg)
 
 *Caption: Capstone Design Project Showcasing*
 ---
@@ -56,7 +56,7 @@ The MATLAB code generated time-based graphs for altitude, velocity, and accelera
 ### Drawing
 Below is the drawing of the final sugar rocket assembly:
 
-![Drawing of Sugar Rocket Assembly](/images/sugar_rocket_drawing.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/sugar_rocket_drawing.jpg)
 
 *Caption: Sugar Rocket Assembly (all dimensions in mm)*
 
@@ -77,7 +77,7 @@ The static test, performed on **December 1, 2023**, yielded the following result
 Static testing demonstrated cost-effective propulsion analysis without a full-scale launch. This was the fourth successful burn of the assembly, paving the way for further optimization and study.
 
 ---
-![Drawing of Sugar Rocket Assembly](/images/sugar_rocket_prize.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/sugar_rocket_prize.jpg)
 
 *Caption: Capstone Design Project Showcasing 1st prize*
 
