@@ -7,7 +7,7 @@ As part of an exciting academic competition, my team and I designed and built a 
 
 <!--more-->
 
-![Drawing of Sugar Rocket Assembly](/images/soccer_1.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/soccer_1.jpg)
 
 *Caption: Soccer Bot*
 
@@ -21,7 +21,7 @@ As part of an exciting academic competition, my team and I designed and built a 
 - Controlled via a **Bluetooth module**, paired with a smartphone app for real-time navigation.
 - Responsive commands enabled smooth navigation and precise movements.
 
-![Drawing of Sugar Rocket Assembly](/images/soccer_2.jpg)
+![Drawing of Sugar Rocket Assembly](../../../images/soccer_2.jpg)
 
 *Caption: Soccer Bot Project*
 
