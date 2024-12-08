@@ -1,5 +1,5 @@
-<div class="thumbnails recentworks">
-    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+<div class="thumbnails extracurricular">
+    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }}
     {{ range $index, $area := $data }}
         <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
             <a class="thumbnail" href="{{ .url }}">
