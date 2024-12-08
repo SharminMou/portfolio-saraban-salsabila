@@ -11,7 +11,7 @@ image_style = "display: block; margin: 0 auto; width: 50%;"
 
 The **SQ Group** operates a network of state-of-the-art factories specializing in the production of a wide range of products, from lights and fans to transformers, cables, and SPC poles.
 
-![SQ Group Visit](/images/sq_2.jpg)
+![SQ Group Visit](../../../images/sq_2.jpg)
 
 *Caption: SQ Group Factory.*
 
@@ -24,14 +24,14 @@ The **SQ Group** operates a network of state-of-the-art factories specializing i
     - Underground cables and capacitor banks
     - Substations for infrastructure projects
 
-![SQ Group Visit](/images/sq_3.jpg)
+![SQ Group Visit](../../../images/sq_3.jpg)
 
 *Caption: SQ Group Factory.*
 
 - **SPC Pole Factory in Jaflong:**  
   Dedicated to producing **SPC (Spun Pre-stressed Concrete) poles**, essential for durable and reliable electrical infrastructure.
 
-![SQ Group Visit](/images/sq_4.jpg)
+![SQ Group Visit](../../../images/sq_4.jpg)
 
 *Caption: SQ Group Factory.*
 
@@ -40,7 +40,7 @@ The **SQ Group** operates a network of state-of-the-art factories specializing i
 - Adheres to stringent **quality and safety standards**.
 - Emphasizes **sustainability** through energy-efficient technologies and waste management practices, ensuring an **eco-friendly production process**.
 
-![SQ Group Visit](/images/sq_5.jpg)
+![SQ Group Visit](../../../images/sq_5.jpg)
 
 *Caption: SQ Group Factory.*
 
@@ -56,7 +56,7 @@ As part of my role at **TS Transformers Ltd.**, I visit the factory once a week 
 - **Evaluate Quality Control Measures:** Ensure adherence to high standards.
 - **Coordinate with the Production Team:** Address challenges and optimize workflow.
 
-![SQ Group Visit](/images/sq_6.jpg)
+![SQ Group Visit](../../../images/sq_6.jpg)
 
 *Caption: SQ Group Factory.*
 
