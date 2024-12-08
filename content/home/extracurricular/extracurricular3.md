@@ -26,6 +26,8 @@ It fosters a conducive environment for intellectual growth and scientific explor
 
 ## IUT Al-Fazari Interstellar Society
 
+**Senior Secretary of Research, 2020 – 2024**
+
 I served as the **Senior Secretary of Research** at the **IUT Al-Fazari Interstellar Society**, where I was responsible for leading and coordinating research activities related to **space science and technology**.
 
 ![extra curricular](../../../images/affiliation_2.JPG)
@@ -47,6 +49,8 @@ For more information about the society: [IUT Al-Fazari Interstellar Society on F
 ---
 
 ## IUT Mars Rover - Team Avijatrik
+
+**Junior member, 2021 – 2023**
 
 I was a **junior member** of the **IUT Mars Rover Project**, **Team Avijatrik**, contributing to the design and development of a rover for the prestigious **International Mars Rover Competition**.
 
