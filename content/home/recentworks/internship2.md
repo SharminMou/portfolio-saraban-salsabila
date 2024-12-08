@@ -22,11 +22,6 @@ During this intensive training, I gained in-depth exposure to critical industria
 
 - The processes involved in running an **ammonia plant**, **blast freezing**, and the **production of ice cream**, with a focus on **preservation techniques** to ensure quality.
 
-<video controls width="100%" style="display: block; margin: 0 auto; height: 90%;">
-    <source src="../../../videos/kazi_farms_7.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
-
 ---
 *Caption: Production of ice cream*
 
