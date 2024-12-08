@@ -9,7 +9,7 @@ image_style = "display: block; margin: 0 auto; width: 50%;"
 
 I completed a **4-day training program** in **January 2023** at **Techno Venture Ltd., Bangladesh**, where I gained comprehensive knowledge of various processes involved in **transformer manufacturing** and **electrical systems**.
 
-![Techno Venture Visit](/images/techno_3.jpg)
+![Techno Venture Visit](../../../images/techno_3.jpg)
 
 *Caption: Techno 1.*
 
@@ -18,7 +18,7 @@ The training provided hands-on experience in:
 - The **powder coating process**, which enhances the durability of transformer components.
 - The operation of the **transformer oil purification plant**, essential for maintaining the insulating properties of transformer oil.
 
-![Techno Venture Visit](/images/techno_2.jpg)
+![Techno Venture Visit](../../../images/techno_2.jpg)
 
 *Caption: Techno 2.*
 
@@ -27,7 +27,7 @@ The program also covered the entire process of manufacturing **single-phase** an
 - **Testing**
 - **Final quality assurance**
 
-![Techno Venture Visit](/images/techno_1.jpg)
+![Techno Venture Visit](../../../images/techno_1.jpg)
 
 *Caption: Techno 3.*
 
