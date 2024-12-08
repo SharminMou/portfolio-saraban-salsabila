@@ -19,7 +19,7 @@ As a **Management Trainee Officer (MTO)** at TS Transformers Ltd., I’ve had th
 - Preparing **competitive bids** that showcase the company’s strengths.
 - Collaborating with diverse teams to streamline operations and meet deadlines.
 
-![TS experience](/images/experience_1.jpg)
+![TS experience](../images/experience_1.jpg)
 
 This role has been a learning curve and an exciting challenge, blending my technical background with strategic thinking and organizational acumen. Beyond the day-to-day responsibilities, it’s inspiring to witness how the company’s products and solutions directly impact the country’s energy infrastructure.
 
@@ -36,7 +36,7 @@ Working at TS Transformers has offered me invaluable insights into the **energy 
 
 I completed a **3-month internship** at **Multibrand Workshop Ltd.**, Bangladesh's leading automobile workshop, from **June 10, 2023, to September 24, 2023**.
 
-![Multibrand Workshop Visit](/images/multibrand_1.jpeg)
+![Multibrand Workshop Visit](../images/multibrand_1.jpeg)
 
 *Caption: Multibrand.*
 
@@ -47,7 +47,7 @@ During my internship in the **Mechanical Department**, I gained hands-on experie
 - **Suspension work**
 - **Timing belt replacement**
 
-![Multibrand Workshop Visit](/images/multibrand_2.jpeg)
+![Multibrand Workshop Visit](../images/multibrand_2.jpeg)
 
 *Caption: Multibrand.*
 
@@ -55,7 +55,7 @@ Additionally, I served as a **Service Advisor**, where I:
 - Listened to customer complaints and documented the issues.
 - Identified defective parts and provided customers with an estimated cost for repairs.
 
-![Multibrand Workshop Visit](/images/multibrand_3.jpeg)
+![Multibrand Workshop Visit](../images/multibrand_3.jpeg)
 
 *Caption: Multibrand.*
 
