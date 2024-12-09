@@ -5,7 +5,7 @@ type = "about"
 
 I’m Saraban Salsabila, a Mechanical Engineer with a passion for innovation, research, and solving real-world challenges. I completed my B.Sc. in Mechanical Engineering from the Islamic University of Technology (IUT), Bangladesh, where I developed a keen interest in thermal systems, energy optimization, and aerospace applications.
 
-[Download Resume](../resume.pdf)
+[Full Resume](../resume.pdf)
 
 ![about](../images/about.jpg)
 
